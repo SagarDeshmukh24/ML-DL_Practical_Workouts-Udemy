@@ -1,2 +1,2 @@
 # Project1-ANN
-Car Sales Prediction
+In this project we are predicting how much amount person can pay for car based on financial condition.
