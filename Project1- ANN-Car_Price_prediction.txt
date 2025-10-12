@@ -1,0 +1,2 @@
+In this project we used ANN, created model for regression.
+This model make prediction of how much a person can give price for car based on his/her current financial condtions.
